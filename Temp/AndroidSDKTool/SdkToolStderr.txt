@@ -1,0 +1,2 @@
+Warning: Observed package id 'build-tools;30.0.2' in inconsistent location 'D:\2021.3.35f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\30.0.0' (Expected 'D:\2021.3.35f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\30.0.2')
+Warning: Observed package id 'build-tools;30.0.2' in inconsistent location 'D:\2021.3.35f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\30.0.0' (Expected 'D:\2021.3.35f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\30.0.2')

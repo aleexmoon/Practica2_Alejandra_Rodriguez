@@ -1,0 +1,4 @@
+#Sun Feb 25 18:50:30 CST 2024
+base.0=D\:\\Unity\\Practica2_Alejandra\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
